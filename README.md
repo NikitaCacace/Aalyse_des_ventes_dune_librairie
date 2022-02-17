@@ -11,7 +11,7 @@
 
   La librairie Lapage souhaite faire le point après deux ans d’exercice, et analyser ses points forts, ses points faibles, les comportements clients, décider si nous devons créer certaines offres, adapter certains prix, etc..
   
-__Améliorations prévues sur ce projet__ : finir le notebook sous R (non disponible ici). 
+__Améliorations prévues sur ce projet__ : Calule de la récence, clustering des clients segmentation RFM, finir le notebook sous R (non disponible ici). 
 
 *All of my projects are in french, if you would like to see them translated please contact me on LinkedIn.*
 
